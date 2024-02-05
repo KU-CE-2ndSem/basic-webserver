@@ -1,4 +1,4 @@
-# Saksham -for you
+# WEB-SERVER
 This project uses the framework `httplib` used as `httplib.h` & database `sqlite3`.
 
 ## How to run
